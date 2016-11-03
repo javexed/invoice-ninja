@@ -1,4 +1,4 @@
-# The IVR MoTH: Phone System Monitoring, Testing, Hammering
+# Invoice Ninja
 
 ## Installation
 
